@@ -11,7 +11,8 @@ namespace POS_console
 
                 var std = new Student()
                 {
-                    Name = "Jack"
+                    FirstName = "Jack",
+                    LastName = "Andersen"
                 };
 
                 var crs = new Course()

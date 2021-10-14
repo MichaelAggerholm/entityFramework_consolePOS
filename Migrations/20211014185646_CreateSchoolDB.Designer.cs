@@ -9,7 +9,7 @@ using POS_console;
 namespace POS_console.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20211014181109_CreateSchoolDB")]
+    [Migration("20211014185646_CreateSchoolDB")]
     partial class CreateSchoolDB
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -42,7 +42,10 @@ namespace POS_console.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("Name")
+                    b.Property<string>("FirstName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("LastName")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("StudentId");
