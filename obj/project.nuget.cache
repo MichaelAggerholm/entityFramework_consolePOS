@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0CLsdN/vV/j5qcU7vIXr+cJEWAG50g9hq7A4WPEAIU3iWCN+a6dbGUyal16HiKrl2nvXU0A/VNJlkCrbD0Bnw==",
+  "dgSpecHash": "Rxkq05abOyoLDLXCDgz6IIzaaEAv+6CxJs3mFxgS205za+Akvtnp4C8KARd8F0UmtBqwm8wBjHGBCN9s0iLPvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Michael Aggerholm\\Source\\Repos\\MichaelAggerholm\\entityFramework_consolePOS\\POS_console.csproj",
+  "projectFilePath": "C:\\Users\\Michael Aggerholm\\RiderProjects\\entityFramework_consolePOS\\POS_console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michael Aggerholm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Michael Aggerholm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

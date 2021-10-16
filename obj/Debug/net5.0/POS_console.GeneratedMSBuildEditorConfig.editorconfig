@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = POS_console
-build_property.ProjectDir = C:\Users\Michael Aggerholm\Source\Repos\MichaelAggerholm\entityFramework_consolePOS\
+build_property.ProjectDir = C:\Users\Michael Aggerholm\RiderProjects\entityFramework_consolePOS\

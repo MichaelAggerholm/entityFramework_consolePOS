@@ -11,13 +11,13 @@ namespace POS_console
 
                 var std = new Student()
                 {
-                    FirstName = "Jack",
-                    LastName = "Andersen"
+                    FirstName = "Jackson",
+                    LastName = "Andersenville"
                 };
 
                 var crs = new Course()
                 {
-                    CourseName = "DatabaseProgrammering"
+                    CourseName = "Ottododo"
                 };
 
                 context.Students.Add(std);

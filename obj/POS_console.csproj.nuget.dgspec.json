@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michael Aggerholm\\Source\\Repos\\MichaelAggerholm\\entityFramework_consolePOS\\POS_console.csproj": {}
+    "C:\\Users\\Michael Aggerholm\\RiderProjects\\entityFramework_consolePOS\\POS_console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michael Aggerholm\\Source\\Repos\\MichaelAggerholm\\entityFramework_consolePOS\\POS_console.csproj": {
+    "C:\\Users\\Michael Aggerholm\\RiderProjects\\entityFramework_consolePOS\\POS_console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michael Aggerholm\\Source\\Repos\\MichaelAggerholm\\entityFramework_consolePOS\\POS_console.csproj",
+        "projectUniqueName": "C:\\Users\\Michael Aggerholm\\RiderProjects\\entityFramework_consolePOS\\POS_console.csproj",
         "projectName": "POS_console",
-        "projectPath": "C:\\Users\\Michael Aggerholm\\Source\\Repos\\MichaelAggerholm\\entityFramework_consolePOS\\POS_console.csproj",
+        "projectPath": "C:\\Users\\Michael Aggerholm\\RiderProjects\\entityFramework_consolePOS\\POS_console.csproj",
         "packagesPath": "C:\\Users\\Michael Aggerholm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michael Aggerholm\\Source\\Repos\\MichaelAggerholm\\entityFramework_consolePOS\\obj\\",
+        "outputPath": "C:\\Users\\Michael Aggerholm\\RiderProjects\\entityFramework_consolePOS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
